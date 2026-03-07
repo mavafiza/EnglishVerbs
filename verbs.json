@@ -1,0 +1,724 @@
+{
+  "verbs": [
+    {
+      "infinitive": "be",
+      "translation": "ser/estar",
+      "presentSimple": {
+        "I": { "form": "am", "translation": "yo soy/estoy" },
+        "you": { "form": "are", "translation": "tú eres/estás" },
+        "he/she/it": { "form": "is", "translation": "él/ella es/está" },
+        "we": { "form": "are", "translation": "nosotros somos/estamos" },
+        "you_plural": { "form": "are", "translation": "ustedes son/están" },
+        "they": { "form": "are", "translation": "ellos/ellas son/están" }
+      },
+      "pastSimple": {
+        "I": { "form": "was", "translation": "yo fui/estuve" },
+        "you": { "form": "were", "translation": "tú fuiste/estuviste" },
+        "he/she/it": { "form": "was", "translation": "él/ella fue/estuvo" },
+        "we": { "form": "were", "translation": "nosotros fuimos/estuvimos" },
+        "you_plural": { "form": "were", "translation": "ustedes fueron/estuvieron" },
+        "they": { "form": "were", "translation": "ellos/ellas fueron/estuvieron" }
+      },
+      "presentPerfect": {
+        "I": { "form": "have been", "translation": "yo he sido/estado" },
+        "you": { "form": "have been", "translation": "tú has sido/estado" },
+        "he/she/it": { "form": "has been", "translation": "él/ella ha sido/estado" },
+        "we": { "form": "have been", "translation": "nosotros hemos sido/estado" },
+        "you_plural": { "form": "have been", "translation": "ustedes han sido/estado" },
+        "they": { "form": "have been", "translation": "ellos/ellas han sido/estado" }
+      },
+      "pastPerfect": {
+        "I": { "form": "had been", "translation": "yo había sido/estado" },
+        "you": { "form": "had been", "translation": "tú habías sido/estado" },
+        "he/she/it": { "form": "had been", "translation": "él/ella había sido/estado" },
+        "we": { "form": "had been", "translation": "nosotros habíamos sido/estado" },
+        "you_plural": { "form": "had been", "translation": "ustedes habían sido/estado" },
+        "they": { "form": "had been", "translation": "ellos/ellas habían sido/estado" }
+      }
+    },
+    {
+      "infinitive": "break",
+      "translation": "romper",
+      "presentSimple": {
+        "I": { "form": "break", "translation": "yo rompo" },
+        "you": { "form": "break", "translation": "tú rompes" },
+        "he/she/it": { "form": "breaks", "translation": "él/ella rompe" },
+        "we": { "form": "break", "translation": "nosotros rompemos" },
+        "you_plural": { "form": "break", "translation": "ustedes rompen" },
+        "they": { "form": "break", "translation": "ellos/ellas rompen" }
+      },
+      "pastSimple": {
+        "I": { "form": "broke", "translation": "yo rompí" },
+        "you": { "form": "broke", "translation": "tú rompiste" },
+        "he/she/it": { "form": "broke", "translation": "él/ella rompió" },
+        "we": { "form": "broke", "translation": "nosotros rompimos" },
+        "you_plural": { "form": "broke", "translation": "ustedes rompieron" },
+        "they": { "form": "broke", "translation": "ellos/ellas rompieron" }
+      },
+      "presentPerfect": {
+        "I": { "form": "have broken", "translation": "yo he roto" },
+        "you": { "form": "have broken", "translation": "tú has roto" },
+        "he/she/it": { "form": "has broken", "translation": "él/ella ha roto" },
+        "we": { "form": "have broken", "translation": "nosotros hemos roto" },
+        "you_plural": { "form": "have broken", "translation": "ustedes han roto" },
+        "they": { "form": "have broken", "translation": "ellos/ellas han roto" }
+      },
+      "pastPerfect": {
+        "I": { "form": "had broken", "translation": "yo había roto" },
+        "you": { "form": "had broken", "translation": "tú habías roto" },
+        "he/she/it": { "form": "had broken", "translation": "él/ella había roto" },
+        "we": { "form": "had broken", "translation": "nosotros habíamos roto" },
+        "you_plural": { "form": "had broken", "translation": "ustedes habían roto" },
+        "they": { "form": "had broken", "translation": "ellos/ellas habían roto" }
+      }
+    },
+    {
+      "infinitive": "buy",
+      "translation": "comprar",
+      "presentSimple": {
+        "I": { "form": "buy", "translation": "yo compro" },
+        "you": { "form": "buy", "translation": "tú compras" },
+        "he/she/it": { "form": "buys", "translation": "él/ella compra" },
+        "we": { "form": "buy", "translation": "nosotros compramos" },
+        "you_plural": { "form": "buy", "translation": "ustedes compran" },
+        "they": { "form": "buy", "translation": "ellos/ellas compran" }
+      },
+      "pastSimple": {
+        "I": { "form": "bought", "translation": "yo compré" },
+        "you": { "form": "bought", "translation": "tú compraste" },
+        "he/she/it": { "form": "bought", "translation": "él/ella compró" },
+        "we": { "form": "bought", "translation": "nosotros compramos" },
+        "you_plural": { "form": "bought", "translation": "ustedes compraron" },
+        "they": { "form": "bought", "translation": "ellos/ellas compraron" }
+      },
+      "presentPerfect": {
+        "I": { "form": "have bought", "translation": "yo he comprado" },
+        "you": { "form": "have bought", "translation": "tú has comprado" },
+        "he/she/it": { "form": "has bought", "translation": "él/ella ha comprado" },
+        "we": { "form": "have bought", "translation": "nosotros hemos comprado" },
+        "you_plural": { "form": "have bought", "translation": "ustedes han comprado" },
+        "they": { "form": "have bought", "translation": "ellos/ellas han comprado" }
+      },
+      "pastPerfect": {
+        "I": { "form": "had bought", "translation": "yo había comprado" },
+        "you": { "form": "had bought", "translation": "tú habías comprado" },
+        "he/she/it": { "form": "had bought", "translation": "él/ella había comprado" },
+        "we": { "form": "had bought", "translation": "nosotros habíamos comprado" },
+        "you_plural": { "form": "had bought", "translation": "ustedes habían comprado" },
+        "they": { "form": "had bought", "translation": "ellos/ellas habían comprado" }
+      }
+    },
+    {
+      "infinitive": "cook",
+      "translation": "cocinar",
+      "presentSimple": {
+        "I": { "form": "cook", "translation": "yo cocino" },
+        "you": { "form": "cook", "translation": "tú cocinas" },
+        "he/she/it": { "form": "cooks", "translation": "él/ella cocina" },
+        "we": { "form": "cook", "translation": "nosotros cocinamos" },
+        "you_plural": { "form": "cook", "translation": "ustedes cocinan" },
+        "they": { "form": "cook", "translation": "ellos/ellas cocinan" }
+      },
+      "pastSimple": {
+        "I": { "form": "cooked", "translation": "yo cociné" },
+        "you": { "form": "cooked", "translation": "tú cocinaste" },
+        "he/she/it": { "form": "cooked", "translation": "él/ella cocinó" },
+        "we": { "form": "cooked", "translation": "nosotros cocinamos" },
+        "you_plural": { "form": "cooked", "translation": "ustedes cocinaron" },
+        "they": { "form": "cooked", "translation": "ellos/ellas cocinaron" }
+      },
+      "presentPerfect": {
+        "I": { "form": "have cooked", "translation": "yo he cocinado" },
+        "you": { "form": "have cooked", "translation": "tú has cocinado" },
+        "he/she/it": { "form": "has cooked", "translation": "él/ella ha cocinado" },
+        "we": { "form": "have cooked", "translation": "nosotros hemos cocinado" },
+        "you_plural": { "form": "have cooked", "translation": "ustedes han cocinado" },
+        "they": { "form": "have cooked", "translation": "ellos/ellas han cocinado" }
+      },
+      "pastPerfect": {
+        "I": { "form": "had cooked", "translation": "yo había cocinado" },
+        "you": { "form": "had cooked", "translation": "tú habías cocinado" },
+        "he/she/it": { "form": "had cooked", "translation": "él/ella había cocinado" },
+        "we": { "form": "had cooked", "translation": "nosotros habíamos cocinado" },
+        "you_plural": { "form": "had cooked", "translation": "ustedes habían cocinado" },
+        "they": { "form": "had cooked", "translation": "ellos/ellas habían cocinado" }
+      }
+    },
+    {
+      "infinitive": "do",
+      "translation": "hacer",
+      "presentSimple": {
+        "I": { "form": "do", "translation": "yo hago" },
+        "you": { "form": "do", "translation": "tú haces" },
+        "he/she/it": { "form": "does", "translation": "él/ella hace" },
+        "we": { "form": "do", "translation": "nosotros hacemos" },
+        "you_plural": { "form": "do", "translation": "ustedes hacen" },
+        "they": { "form": "do", "translation": "ellos/ellas hacen" }
+      },
+      "pastSimple": {
+        "I": { "form": "did", "translation": "yo hice" },
+        "you": { "form": "did", "translation": "tú hiciste" },
+        "he/she/it": { "form": "did", "translation": "él/ella hizo" },
+        "we": { "form": "did", "translation": "nosotros hicimos" },
+        "you_plural": { "form": "did", "translation": "ustedes hicieron" },
+        "they": { "form": "did", "translation": "ellos/ellas hicieron" }
+      },
+      "presentPerfect": {
+        "I": { "form": "have done", "translation": "yo he hecho" },
+        "you": { "form": "have done", "translation": "tú has hecho" },
+        "he/she/it": { "form": "has done", "translation": "él/ella ha hecho" },
+        "we": { "form": "have done", "translation": "nosotros hemos hecho" },
+        "you_plural": { "form": "have done", "translation": "ustedes han hecho" },
+        "they": { "form": "have done", "translation": "ellos/ellas han hecho" }
+      },
+      "pastPerfect": {
+        "I": { "form": "had done", "translation": "yo había hecho" },
+        "you": { "form": "had done", "translation": "tú habías hecho" },
+        "he/she/it": { "form": "had done", "translation": "él/ella había hecho" },
+        "we": { "form": "had done", "translation": "nosotros habíamos hecho" },
+        "you_plural": { "form": "had done", "translation": "ustedes habían hecho" },
+        "they": { "form": "had done", "translation": "ellos/ellas habían hecho" }
+      }
+    },
+    {
+      "infinitive": "drink",
+      "translation": "beber",
+      "presentSimple": {
+        "I": { "form": "drink", "translation": "yo bebo" },
+        "you": { "form": "drink", "translation": "tú bebes" },
+        "he/she/it": { "form": "drinks", "translation": "él/ella bebe" },
+        "we": { "form": "drink", "translation": "nosotros bebemos" },
+        "you_plural": { "form": "drink", "translation": "ustedes beben" },
+        "they": { "form": "drink", "translation": "ellos/ellas beben" }
+      },
+      "pastSimple": {
+        "I": { "form": "drank", "translation": "yo bebí" },
+        "you": { "form": "drank", "translation": "tú bebiste" },
+        "he/she/it": { "form": "drank", "translation": "él/ella bebió" },
+        "we": { "form": "drank", "translation": "nosotros bebimos" },
+        "you_plural": { "form": "drank", "translation": "ustedes bebieron" },
+        "they": { "form": "drank", "translation": "ellos/ellas bebieron" }
+      },
+      "presentPerfect": {
+        "I": { "form": "have drunk", "translation": "yo he bebido" },
+        "you": { "form": "have drunk", "translation": "tú has bebido" },
+        "he/she/it": { "form": "has drunk", "translation": "él/ella ha bebido" },
+        "we": { "form": "have drunk", "translation": "nosotros hemos bebido" },
+        "you_plural": { "form": "have drunk", "translation": "ustedes han bebido" },
+        "they": { "form": "have drunk", "translation": "ellos/ellas han bebido" }
+      },
+      "pastPerfect": {
+        "I": { "form": "had drunk", "translation": "yo había bebido" },
+        "you": { "form": "had drunk", "translation": "tú habías bebido" },
+        "he/she/it": { "form": "had drunk", "translation": "él/ella había bebido" },
+        "we": { "form": "had drunk", "translation": "nosotros habíamos bebido" },
+        "you_plural": { "form": "had drunk", "translation": "ustedes habían bebido" },
+        "they": { "form": "had drunk", "translation": "ellos/ellas habían bebido" }
+      }
+    },
+    {
+      "infinitive": "eat",
+      "translation": "comer",
+      "presentSimple": {
+        "I": { "form": "eat", "translation": "yo como" },
+        "you": { "form": "eat", "translation": "tú comes" },
+        "he/she/it": { "form": "eats", "translation": "él/ella come" },
+        "we": { "form": "eat", "translation": "nosotros comemos" },
+        "you_plural": { "form": "eat", "translation": "ustedes comen" },
+        "they": { "form": "eat", "translation": "ellos/ellas comen" }
+      },
+      "pastSimple": {
+        "I": { "form": "ate", "translation": "yo comí" },
+        "you": { "form": "ate", "translation": "tú comiste" },
+        "he/she/it": { "form": "ate", "translation": "él/ella comió" },
+        "we": { "form": "ate", "translation": "nosotros comimos" },
+        "you_plural": { "form": "ate", "translation": "ustedes comieron" },
+        "they": { "form": "ate", "translation": "ellos/ellas comieron" }
+      },
+      "presentPerfect": {
+        "I": { "form": "have eaten", "translation": "yo he comido" },
+        "you": { "form": "have eaten", "translation": "tú has comido" },
+        "he/she/it": { "form": "has eaten", "translation": "él/ella ha comido" },
+        "we": { "form": "have eaten", "translation": "nosotros hemos comido" },
+        "you_plural": { "form": "have eaten", "translation": "ustedes han comido" },
+        "they": { "form": "have eaten", "translation": "ellos/ellas han comido" }
+      },
+      "pastPerfect": {
+        "I": { "form": "had eaten", "translation": "yo había comido" },
+        "you": { "form": "had eaten", "translation": "tú habías comido" },
+        "he/she/it": { "form": "had eaten", "translation": "él/ella había comido" },
+        "we": { "form": "had eaten", "translation": "nosotros habíamos comido" },
+        "you_plural": { "form": "had eaten", "translation": "ustedes habían comido" },
+        "they": { "form": "had eaten", "translation": "ellos/ellas habían comido" }
+      }
+    },
+    {
+      "infinitive": "find",
+      "translation": "encontrar",
+      "presentSimple": {
+        "I": { "form": "find", "translation": "yo encuentro" },
+        "you": { "form": "find", "translation": "tú encuentras" },
+        "he/she/it": { "form": "finds", "translation": "él/ella encuentra" },
+        "we": { "form": "find", "translation": "nosotros encontramos" },
+        "you_plural": { "form": "find", "translation": "ustedes encuentran" },
+        "they": { "form": "find", "translation": "ellos/ellas encuentran" }
+      },
+      "pastSimple": {
+        "I": { "form": "found", "translation": "yo encontré" },
+        "you": { "form": "found", "translation": "tú encontraste" },
+        "he/she/it": { "form": "found", "translation": "él/ella encontró" },
+        "we": { "form": "found", "translation": "nosotros encontramos" },
+        "you_plural": { "form": "found", "translation": "ustedes encontraron" },
+        "they": { "form": "found", "translation": "ellos/ellas encontraron" }
+      },
+      "presentPerfect": {
+        "I": { "form": "have found", "translation": "yo he encontrado" },
+        "you": { "form": "have found", "translation": "tú has encontrado" },
+        "he/she/it": { "form": "has found", "translation": "él/ella ha encontrado" },
+        "we": { "form": "have found", "translation": "nosotros hemos encontrado" },
+        "you_plural": { "form": "have found", "translation": "ustedes han encontrado" },
+        "they": { "form": "have found", "translation": "ellos/ellas han encontrado" }
+      },
+      "pastPerfect": {
+        "I": { "form": "had found", "translation": "yo había encontrado" },
+        "you": { "form": "had found", "translation": "tú habías encontrado" },
+        "he/she/it": { "form": "had found", "translation": "él/ella había encontrado" },
+        "we": { "form": "had found", "translation": "nosotros habíamos encontrado" },
+        "you_plural": { "form": "had found", "translation": "ustedes habían encontrado" },
+        "they": { "form": "had found", "translation": "ellos/ellas habían encontrado" }
+      }
+    },
+    {
+      "infinitive": "get",
+      "translation": "obtener/llegar",
+      "presentSimple": {
+        "I": { "form": "get", "translation": "yo obtengo/llego" },
+        "you": { "form": "get", "translation": "tú obtienes/llegas" },
+        "he/she/it": { "form": "gets", "translation": "él/ella obtiene/llega" },
+        "we": { "form": "get", "translation": "nosotros obtenemos/llegamos" },
+        "you_plural": { "form": "get", "translation": "ustedes obtienen/llegan" },
+        "they": { "form": "get", "translation": "ellos/ellas obtienen/llegan" }
+      },
+      "pastSimple": {
+        "I": { "form": "got", "translation": "yo obtuve/llegué" },
+        "you": { "form": "got", "translation": "tú obtuviste/llegaste" },
+        "he/she/it": { "form": "got", "translation": "él/ella obtuvo/llegó" },
+        "we": { "form": "got", "translation": "nosotros obtuvimos/llegamos" },
+        "you_plural": { "form": "got", "translation": "ustedes obtuvieron/llegaron" },
+        "they": { "form": "got", "translation": "ellos/ellas obtuvieron/llegaron" }
+      },
+      "presentPerfect": {
+        "I": { "form": "have got/gotten", "translation": "yo he obtenido/llegado" },
+        "you": { "form": "have got/gotten", "translation": "tú has obtenido/llegado" },
+        "he/she/it": { "form": "has got/gotten", "translation": "él/ella ha obtenido/llegado" },
+        "we": { "form": "have got/gotten", "translation": "nosotros hemos obtenido/llegado" },
+        "you_plural": { "form": "have got/gotten", "translation": "ustedes han obtenido/llegado" },
+        "they": { "form": "have got/gotten", "translation": "ellos/ellas han obtenido/llegado" }
+      },
+      "pastPerfect": {
+        "I": { "form": "had got/gotten", "translation": "yo había obtenido/llegado" },
+        "you": { "form": "had got/gotten", "translation": "tú habías obtenido/llegado" },
+        "he/she/it": { "form": "had got/gotten", "translation": "él/ella había obtenido/llegado" },
+        "we": { "form": "had got/gotten", "translation": "nosotros habíamos obtenido/llegado" },
+        "you_plural": { "form": "had got/gotten", "translation": "ustedes habían obtenido/llegado" },
+        "they": { "form": "had got/gotten", "translation": "ellos/ellas habían obtenido/llegado" }
+      }
+    },
+    {
+      "infinitive": "go",
+      "translation": "ir",
+      "presentSimple": {
+        "I": { "form": "go", "translation": "yo voy" },
+        "you": { "form": "go", "translation": "tú vas" },
+        "he/she/it": { "form": "goes", "translation": "él/ella va" },
+        "we": { "form": "go", "translation": "nosotros vamos" },
+        "you_plural": { "form": "go", "translation": "ustedes van" },
+        "they": { "form": "go", "translation": "ellos/ellas van" }
+      },
+      "pastSimple": {
+        "I": { "form": "went", "translation": "yo fui" },
+        "you": { "form": "went", "translation": "tú fuiste" },
+        "he/she/it": { "form": "went", "translation": "él/ella fue" },
+        "we": { "form": "went", "translation": "nosotros fuimos" },
+        "you_plural": { "form": "went", "translation": "ustedes fueron" },
+        "they": { "form": "went", "translation": "ellos/ellas fueron" }
+      },
+      "presentPerfect": {
+        "I": { "form": "have gone", "translation": "yo he ido" },
+        "you": { "form": "have gone", "translation": "tú has ido" },
+        "he/she/it": { "form": "has gone", "translation": "él/ella ha ido" },
+        "we": { "form": "have gone", "translation": "nosotros hemos ido" },
+        "you_plural": { "form": "have gone", "translation": "ustedes han ido" },
+        "they": { "form": "have gone", "translation": "ellos/ellas han ido" }
+      },
+      "pastPerfect": {
+        "I": { "form": "had gone", "translation": "yo había ido" },
+        "you": { "form": "had gone", "translation": "tú habías ido" },
+        "he/she/it": { "form": "had gone", "translation": "él/ella había ido" },
+        "we": { "form": "had gone", "translation": "nosotros habíamos ido" },
+        "you_plural": { "form": "had gone", "translation": "ustedes habían ido" },
+        "they": { "form": "had gone", "translation": "ellos/ellas habían ido" }
+      }
+    },
+    {
+      "infinitive": "know",
+      "translation": "conocer/saber",
+      "presentSimple": {
+        "I": { "form": "know", "translation": "yo conozco/sé" },
+        "you": { "form": "know", "translation": "tú conoces/sabes" },
+        "he/she/it": { "form": "knows", "translation": "él/ella conoce/sabe" },
+        "we": { "form": "know", "translation": "nosotros conocemos/sabemos" },
+        "you_plural": { "form": "know", "translation": "ustedes conocen/saben" },
+        "they": { "form": "know", "translation": "ellos/ellas conocen/saben" }
+      },
+      "pastSimple": {
+        "I": { "form": "knew", "translation": "yo conocí/supe" },
+        "you": { "form": "knew", "translation": "tú conociste/supiste" },
+        "he/she/it": { "form": "knew", "translation": "él/ella conoció/supo" },
+        "we": { "form": "knew", "translation": "nosotros conocimos/supimos" },
+        "you_plural": { "form": "knew", "translation": "ustedes conocieron/supieron" },
+        "they": { "form": "knew", "translation": "ellos/ellas conocieron/supieron" }
+      },
+      "presentPerfect": {
+        "I": { "form": "have known", "translation": "yo he conocido/sabido" },
+        "you": { "form": "have known", "translation": "tú has conocido/sabido" },
+        "he/she/it": { "form": "has known", "translation": "él/ella ha conocido/sabido" },
+        "we": { "form": "have known", "translation": "nosotros hemos conocido/sabido" },
+        "you_plural": { "form": "have known", "translation": "ustedes han conocido/sabido" },
+        "they": { "form": "have known", "translation": "ellos/ellas han conocido/sabido" }
+      },
+      "pastPerfect": {
+        "I": { "form": "had known", "translation": "yo había conocido/sabido" },
+        "you": { "form": "had known", "translation": "tú habías conocido/sabido" },
+        "he/she/it": { "form": "had known", "translation": "él/ella había conocido/sabido" },
+        "we": { "form": "had known", "translation": "nosotros habíamos conocido/sabido" },
+        "you_plural": { "form": "had known", "translation": "ustedes habían conocido/sabido" },
+        "they": { "form": "had known", "translation": "ellos/ellas habían conocido/sabido" }
+      }
+    },
+    {
+      "infinitive": "look",
+      "translation": "mirar",
+      "presentSimple": {
+        "I": { "form": "look", "translation": "yo miro" },
+        "you": { "form": "look", "translation": "tú miras" },
+        "he/she/it": { "form": "looks", "translation": "él/ella mira" },
+        "we": { "form": "look", "translation": "nosotros miramos" },
+        "you_plural": { "form": "look", "translation": "ustedes miran" },
+        "they": { "form": "look", "translation": "ellos/ellas miran" }
+      },
+      "pastSimple": {
+        "I": { "form": "looked", "translation": "yo miré" },
+        "you": { "form": "looked", "translation": "tú miraste" },
+        "he/she/it": { "form": "looked", "translation": "él/ella miró" },
+        "we": { "form": "looked", "translation": "nosotros miramos" },
+        "you_plural": { "form": "looked", "translation": "ustedes miraron" },
+        "they": { "form": "looked", "translation": "ellos/ellas miraron" }
+      },
+      "presentPerfect": {
+        "I": { "form": "have looked", "translation": "yo he mirado" },
+        "you": { "form": "have looked", "translation": "tú has mirado" },
+        "he/she/it": { "form": "has looked", "translation": "él/ella ha mirado" },
+        "we": { "form": "have looked", "translation": "nosotros hemos mirado" },
+        "you_plural": { "form": "have looked", "translation": "ustedes han mirado" },
+        "they": { "form": "have looked", "translation": "ellos/ellas han mirado" }
+      },
+      "pastPerfect": {
+        "I": { "form": "had looked", "translation": "yo había mirado" },
+        "you": { "form": "had looked", "translation": "tú habías mirado" },
+        "he/she/it": { "form": "had looked", "translation": "él/ella había mirado" },
+        "we": { "form": "had looked", "translation": "nosotros habíamos mirado" },
+        "you_plural": { "form": "had looked", "translation": "ustedes habían mirado" },
+        "they": { "form": "had looked", "translation": "ellos/ellas habían mirado" }
+      }
+    },
+    {
+      "infinitive": "make",
+      "translation": "hacer/crear",
+      "presentSimple": {
+        "I": { "form": "make", "translation": "yo hago/creo" },
+        "you": { "form": "make", "translation": "tú haces/creas" },
+        "he/she/it": { "form": "makes", "translation": "él/ella hace/crea" },
+        "we": { "form": "make", "translation": "nosotros hacemos/creamos" },
+        "you_plural": { "form": "make", "translation": "ustedes hacen/crean" },
+        "they": { "form": "make", "translation": "ellos/ellas hacen/crean" }
+      },
+      "pastSimple": {
+        "I": { "form": "made", "translation": "yo hice/creé" },
+        "you": { "form": "made", "translation": "tú hiciste/creaste" },
+        "he/she/it": { "form": "made", "translation": "él/ella hizo/creó" },
+        "we": { "form": "made", "translation": "nosotros hicimos/creamos" },
+        "you_plural": { "form": "made", "translation": "ustedes hicieron/crearon" },
+        "they": { "form": "made", "translation": "ellos/ellas hicieron/crearon" }
+      },
+      "presentPerfect": {
+        "I": { "form": "have made", "translation": "yo he hecho/creado" },
+        "you": { "form": "have made", "translation": "tú has hecho/creado" },
+        "he/she/it": { "form": "has made", "translation": "él/ella ha hecho/creado" },
+        "we": { "form": "have made", "translation": "nosotros hemos hecho/creado" },
+        "you_plural": { "form": "have made", "translation": "ustedes han hecho/creado" },
+        "they": { "form": "have made", "translation": "ellos/ellas han hecho/creado" }
+      },
+      "pastPerfect": {
+        "I": { "form": "had made", "translation": "yo había hecho/creado" },
+        "you": { "form": "had made", "translation": "tú habías hecho/creado" },
+        "he/she/it": { "form": "had made", "translation": "él/ella había hecho/creado" },
+        "we": { "form": "had made", "translation": "nosotros habíamos hecho/creado" },
+        "you_plural": { "form": "had made", "translation": "ustedes habían hecho/creado" },
+        "they": { "form": "had made", "translation": "ellos/ellas habían hecho/creado" }
+      }
+    },
+    {
+      "infinitive": "meet",
+      "translation": "conocer",
+      "presentSimple": {
+        "I": { "form": "meet", "translation": "yo conozco" },
+        "you": { "form": "meet", "translation": "tú conoces" },
+        "he/she/it": { "form": "meets", "translation": "él/ella conoce" },
+        "we": { "form": "meet", "translation": "nosotros conocemos" },
+        "you_plural": { "form": "meet", "translation": "ustedes conocen" },
+        "they": { "form": "meet", "translation": "ellos/ellas conocen" }
+      },
+      "pastSimple": {
+        "I": { "form": "met", "translation": "yo conocí" },
+        "you": { "form": "met", "translation": "tú conociste" },
+        "he/she/it": { "form": "met", "translation": "él/ella conoció" },
+        "we": { "form": "met", "translation": "nosotros conocimos" },
+        "you_plural": { "form": "met", "translation": "ustedes conocieron" },
+        "they": { "form": "met", "translation": "ellos/ellas conocieron" }
+      },
+      "presentPerfect": {
+        "I": { "form": "have met", "translation": "yo he conocido" },
+        "you": { "form": "have met", "translation": "tú has conocido" },
+        "he/she/it": { "form": "has met", "translation": "él/ella ha conocido" },
+        "we": { "form": "have met", "translation": "nosotros hemos conocido" },
+        "you_plural": { "form": "have met", "translation": "ustedes han conocido" },
+        "they": { "form": "have met", "translation": "ellos/ellas han conocido" }
+      },
+      "pastPerfect": {
+        "I": { "form": "had met", "translation": "yo había conocido" },
+        "you": { "form": "had met", "translation": "tú habías conocido" },
+        "he/she/it": { "form": "had met", "translation": "él/ella había conocido" },
+        "we": { "form": "had met", "translation": "nosotros habíamos conocido" },
+        "you_plural": { "form": "had met", "translation": "ustedes habían conocido" },
+        "they": { "form": "had met", "translation": "ellos/ellas habían conocido" }
+      }
+    },
+    {
+      "infinitive": "play",
+      "translation": "jugar",
+      "presentSimple": {
+        "I": { "form": "play", "translation": "yo juego" },
+        "you": { "form": "play", "translation": "tú juegas" },
+        "he/she/it": { "form": "plays", "translation": "él/ella juega" },
+        "we": { "form": "play", "translation": "nosotros jugamos" },
+        "you_plural": { "form": "play", "translation": "ustedes juegan" },
+        "they": { "form": "play", "translation": "ellos/ellas juegan" }
+      },
+      "pastSimple": {
+        "I": { "form": "played", "translation": "yo jugué" },
+        "you": { "form": "played", "translation": "tú jugaste" },
+        "he/she/it": { "form": "played", "translation": "él/ella jugó" },
+        "we": { "form": "played", "translation": "nosotros jugamos" },
+        "you_plural": { "form": "played", "translation": "ustedes jugaron" },
+        "they": { "form": "played", "translation": "ellos/ellas jugaron" }
+      },
+      "presentPerfect": {
+        "I": { "form": "have played", "translation": "yo he jugado" },
+        "you": { "form": "have played", "translation": "tú has jugado" },
+        "he/she/it": { "form": "has played", "translation": "él/ella ha jugado" },
+        "we": { "form": "have played", "translation": "nosotros hemos jugado" },
+        "you_plural": { "form": "have played", "translation": "ustedes han jugado" },
+        "they": { "form": "have played", "translation": "ellos/ellas han jugado" }
+      },
+      "pastPerfect": {
+        "I": { "form": "had played", "translation": "yo había jugado" },
+        "you": { "form": "had played", "translation": "tú habías jugado" },
+        "he/she/it": { "form": "had played", "translation": "él/ella había jugado" },
+        "we": { "form": "had played", "translation": "nosotros habíamos jugado" },
+        "you_plural": { "form": "had played", "translation": "ustedes habían jugado" },
+        "they": { "form": "had played", "translation": "ellos/ellas habían jugado" }
+      }
+    },
+    {
+      "infinitive": "read",
+      "translation": "leer",
+      "presentSimple": {
+        "I": { "form": "read", "translation": "yo leo" },
+        "you": { "form": "read", "translation": "tú lees" },
+        "he/she/it": { "form": "reads", "translation": "él/ella lee" },
+        "we": { "form": "read", "translation": "nosotros leemos" },
+        "you_plural": { "form": "read", "translation": "ustedes leen" },
+        "they": { "form": "read", "translation": "ellos/ellas leen" }
+      },
+      "pastSimple": {
+        "I": { "form": "read (red)", "translation": "yo leí" },
+        "you": { "form": "read (red)", "translation": "tú leíste" },
+        "he/she/it": { "form": "read (red)", "translation": "él/ella leyó" },
+        "we": { "form": "read (red)", "translation": "nosotros leímos" },
+        "you_plural": { "form": "read (red)", "translation": "ustedes leyeron" },
+        "they": { "form": "read (red)", "translation": "ellos/ellas leyeron" }
+      },
+      "presentPerfect": {
+        "I": { "form": "have read", "translation": "yo he leído" },
+        "you": { "form": "have read", "translation": "tú has leído" },
+        "he/she/it": { "form": "has read", "translation": "él/ella ha leído" },
+        "we": { "form": "have read", "translation": "nosotros hemos leído" },
+        "you_plural": { "form": "have read", "translation": "ustedes han leído" },
+        "they": { "form": "have read", "translation": "ellos/ellas han leído" }
+      },
+      "pastPerfect": {
+        "I": { "form": "had read", "translation": "yo había leído" },
+        "you": { "form": "had read", "translation": "tú habías leído" },
+        "he/she/it": { "form": "had read", "translation": "él/ella había leído" },
+        "we": { "form": "had read", "translation": "nosotros habíamos leído" },
+        "you_plural": { "form": "had read", "translation": "ustedes habían leído" },
+        "they": { "form": "had read", "translation": "ellos/ellas habían leído" }
+      }
+    },
+    {
+      "infinitive": "see",
+      "translation": "ver",
+      "presentSimple": {
+        "I": { "form": "see", "translation": "yo veo" },
+        "you": { "form": "see", "translation": "tú ves" },
+        "he/she/it": { "form": "sees", "translation": "él/ella ve" },
+        "we": { "form": "see", "translation": "nosotros vemos" },
+        "you_plural": { "form": "see", "translation": "ustedes ven" },
+        "they": { "form": "see", "translation": "ellos/ellas ven" }
+      },
+      "pastSimple": {
+        "I": { "form": "saw", "translation": "yo vi" },
+        "you": { "form": "saw", "translation": "tú viste" },
+        "he/she/it": { "form": "saw", "translation": "él/ella vio" },
+        "we": { "form": "saw", "translation": "nosotros vimos" },
+        "you_plural": { "form": "saw", "translation": "ustedes vieron" },
+        "they": { "form": "saw", "translation": "ellos/ellas vieron" }
+      },
+      "presentPerfect": {
+        "I": { "form": "have seen", "translation": "yo he visto" },
+        "you": { "form": "have seen", "translation": "tú has visto" },
+        "he/she/it": { "form": "has seen", "translation": "él/ella ha visto" },
+        "we": { "form": "have seen", "translation": "nosotros hemos visto" },
+        "you_plural": { "form": "have seen", "translation": "ustedes han visto" },
+        "they": { "form": "have seen", "translation": "ellos/ellas han visto" }
+      },
+      "pastPerfect": {
+        "I": { "form": "had seen", "translation": "yo había visto" },
+        "you": { "form": "had seen", "translation": "tú habías visto" },
+        "he/she/it": { "form": "had seen", "translation": "él/ella había visto" },
+        "we": { "form": "had seen", "translation": "nosotros habíamos visto" },
+        "you_plural": { "form": "had seen", "translation": "ustedes habían visto" },
+        "they": { "form": "had seen", "translation": "ellos/ellas habían visto" }
+      }
+    },
+    {
+      "infinitive": "speak",
+      "translation": "hablar",
+      "presentSimple": {
+        "I": { "form": "speak", "translation": "yo hablo" },
+        "you": { "form": "speak", "translation": "tú hablas" },
+        "he/she/it": { "form": "speaks", "translation": "él/ella habla" },
+        "we": { "form": "speak", "translation": "nosotros hablamos" },
+        "you_plural": { "form": "speak", "translation": "ustedes hablan" },
+        "they": { "form": "speak", "translation": "ellos/ellas hablan" }
+      },
+      "pastSimple": {
+        "I": { "form": "spoke", "translation": "yo hablé" },
+        "you": { "form": "spoke", "translation": "tú hablaste" },
+        "he/she/it": { "form": "spoke", "translation": "él/ella habló" },
+        "we": { "form": "spoke", "translation": "nosotros hablamos" },
+        "you_plural": { "form": "spoke", "translation": "ustedes hablaron" },
+        "they": { "form": "spoke", "translation": "ellos/ellas hablaron" }
+      },
+      "presentPerfect": {
+        "I": { "form": "have spoken", "translation": "yo he hablado" },
+        "you": { "form": "have spoken", "translation": "tú has hablado" },
+        "he/she/it": { "form": "has spoken", "translation": "él/ella ha hablado" },
+        "we": { "form": "have spoken", "translation": "nosotros hemos hablado" },
+        "you_plural": { "form": "have spoken", "translation": "ustedes han hablado" },
+        "they": { "form": "have spoken", "translation": "ellos/ellas han hablado" }
+      },
+      "pastPerfect": {
+        "I": { "form": "had spoken", "translation": "yo había hablado" },
+        "you": { "form": "had spoken", "translation": "tú habías hablado" },
+        "he/she/it": { "form": "had spoken", "translation": "él/ella había hablado" },
+        "we": { "form": "had spoken", "translation": "nosotros habíamos hablado" },
+        "you_plural": { "form": "had spoken", "translation": "ustedes habían hablado" },
+        "they": { "form": "had spoken", "translation": "ellos/ellas habían hablado" }
+      }
+    },
+    {
+      "infinitive": "spend",
+      "translation": "pasar tiempo/gastar",
+      "presentSimple": {
+        "I": { "form": "spend", "translation": "yo paso tiempo/gasto" },
+        "you": { "form": "spend", "translation": "tú pasas tiempo/gastas" },
+        "he/she/it": { "form": "spends", "translation": "él/ella pasa tiempo/gasta" },
+        "we": { "form": "spend", "translation": "nosotros pasamos tiempo/gastamos" },
+        "you_plural": { "form": "spend", "translation": "ustedes pasan tiempo/gastan" },
+        "they": { "form": "spend", "translation": "ellos/ellas pasan tiempo/gastan" }
+      },
+      "pastSimple": {
+        "I": { "form": "spent", "translation": "yo pasé tiempo/gasté" },
+        "you": { "form": "spent", "translation": "tú pasaste tiempo/gastaste" },
+        "he/she/it": { "form": "spent", "translation": "él/ella pasó tiempo/gastó" },
+        "we": { "form": "spent", "translation": "nosotros pasamos tiempo/gastamos" },
+        "you_plural": { "form": "spent", "translation": "ustedes pasaron tiempo/gastaron" },
+        "they": { "form": "spent", "translation": "ellos/ellas pasaron tiempo/gastaron" }
+      },
+      "presentPerfect": {
+        "I": { "form": "have spent", "translation": "yo he pasado tiempo/gastado" },
+        "you": { "form": "have spent", "translation": "tú has pasado tiempo/gastado" },
+        "he/she/it": { "form": "has spent", "translation": "él/ella ha pasado tiempo/gastado" },
+        "we": { "form": "have spent", "translation": "nosotros hemos pasado tiempo/gastado" },
+        "you_plural": { "form": "have spent", "translation": "ustedes han pasado tiempo/gastado" },
+        "they": { "form": "have spent", "translation": "ellos/ellas han pasado tiempo/gastado" }
+      },
+      "pastPerfect": {
+        "I": { "form": "had spent", "translation": "yo había pasado tiempo/gastado" },
+        "you": { "form": "had spent", "translation": "tú habías pasado tiempo/gastado" },
+        "he/she/it": { "form": "had spent", "translation": "él/ella había pasado tiempo/gastado" },
+        "we": { "form": "had spent", "translation": "nosotros habíamos pasado tiempo/gastado" },
+        "you_plural": { "form": "had spent", "translation": "ustedes habían pasado tiempo/gastado" },
+        "they": { "form": "had spent", "translation": "ellos/ellas habían pasado tiempo/gastado" }
+      }
+    },
+    {
+      "infinitive": "wake up",
+      "translation": "despertarse",
+      "presentSimple": {
+        "I": { "form": "wake up", "translation": "yo me despierto" },
+        "you": { "form": "wake up", "translation": "tú te despiertas" },
+        "he/she/it": { "form": "wakes up", "translation": "él/ella se despierta" },
+        "we": { "form": "wake up", "translation": "nosotros nos despertamos" },
+        "you_plural": { "form": "wake up", "translation": "ustedes se despiertan" },
+        "they": { "form": "wake up", "translation": "ellos/ellas se despiertan" }
+      },
+      "pastSimple": {
+        "I": { "form": "woke up", "translation": "yo me desperté" },
+        "you": { "form": "woke up", "translation": "tú te despertaste" },
+        "he/she/it": { "form": "woke up", "translation": "él/ella se despertó" },
+        "we": { "form": "woke up", "translation": "nosotros nos despertamos" },
+        "you_plural": { "form": "woke up", "translation": "ustedes se despertaron" },
+        "they": { "form": "woke up", "translation": "ellos/ellas se despertaron" }
+      },
+      "presentPerfect": {
+        "I": { "form": "have woken up", "translation": "yo me he despertado" },
+        "you": { "form": "have woken up", "translation": "tú te has despertado" },
+        "he/she/it": { "form": "has woken up", "translation": "él/ella se ha despertado" },
+        "we": { "form": "have woken up", "translation": "nosotros nos hemos despertado" },
+        "you_plural": { "form": "have woken up", "translation": "ustedes se han despertado" },
+        "they": { "form": "have woken up", "translation": "ellos/ellas se han despertado" }
+      },
+      "pastPerfect": {
+        "I": { "form": "had woken up", "translation": "yo me había despertado" },
+        "you": { "form": "had woken up", "translation": "tú te habías despertado" },
+        "he/she/it": { "form": "had woken up", "translation": "él/ella se había despertado" },
+        "we": { "form": "had woken up", "translation": "nosotros nos habíamos despertado" },
+        "you_plural": { "form": "had woken up", "translation": "ustedes se habían despertado" },
+        "they": { "form": "had woken up", "translation": "ellos/ellas se habían despertado" }
+      }
+    }
+  ]
+}
