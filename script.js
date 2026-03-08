@@ -52,9 +52,9 @@ function openModal(verb) {
             ${generateTenseSection('Pasado Simple', verb.pastSimple)}
             ${generateTenseSection('Presente Perfecto', verb.presentPerfect)}
             ${generateTenseSection('Pasado Perfecto', verb.pastPerfect)}
+            ${verb.modals ? generateModalsSection(verb.modals) : ''}
         </div>
     `;
-    
     modal.classList.add('active');
     document.body.style.overflow = 'hidden';
 }
@@ -120,3 +120,43 @@ document.addEventListener('keydown', (e) => {
 
 // Inicializar
 document.addEventListener('DOMContentLoaded', loadVerbs);
+
+
+function generateModalsSection(modals) {
+    let html = `
+        <div class="tense-section">
+            <div class="tense-header">✨ Verbos Modales</div>
+            <div class="tense-content">
+    `;
+    
+    const modalNames = {
+        "can": "Can (poder - habilidad)",
+        "cannot": "Can't (no poder)",
+        "could": "Could (podría - condicional)",
+        "couldn't": "Couldn't (no podría)",
+        "should": "Should (debería - consejo)",
+        "shouldn't": "Shouldn't (no debería)",
+        "must": "Must (deber - obligación)",
+        "must_not": "Must not (no deber - prohibición)",
+        "might": "Might (podría - posibilidad)",
+        "might_not": "Might not (podría no)",
+        "could_have": "Could have (podría haber)",
+        "should_have": "Should have (debería haber)",
+        "must_have": "Must have (debe haber)",
+        "might_have": "Might have (podría haber)"
+    };
+    
+    for (const [key, modal] of Object.entries(modals)) {
+        html += `
+            <div style="margin-bottom: 1rem; padding: 0.75rem; background: #f8f9fa; border-radius: 8px;">
+                <strong style="color: var(--primary-color);">${modalNames[key] || key}:</strong><br>
+                <span style="font-weight: 500;">${modal.form}</span><br>
+                <span style="color: #7f8c8d; font-style: italic;">${modal.translation}</span><br>
+                <small style="color: var(--accent-color);">💡 ${modal.note}</small>
+            </div>
+        `;
+    }
+    
+    html += `</div></div>`;
+    return html;
+}
